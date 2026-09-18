@@ -2,17 +2,24 @@
 
 > Projeto de refatoração e modernização da interface web da plataforma **Rei dos Jogos**, desenvolvido como atividade prática para a disciplina de **Desenvolvimento Front-End** da **UNICID**.
 
+### 👥 Autores (Engenharia de Software)
+- **Daniel Santana**
+- **Jonas Mateus**
+- **Kaike Domingos**
+- **Marlon Dias**
+- **Matheus Alves**
+
 ---
 
 ## 📌 Índice
 
+- [Autores](#-autores-engenharia-de-software)
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Contexto Acadêmico](#-contexto-acadêmico)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Melhorias Aplicadas](#-melhorias-aplicadas)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Como Executar](#-como-executar)
-- [Autores](#-autores)
 
 ---
 
@@ -60,7 +67,13 @@ A proposta deste trabalho foi **redesenhar e aprimorar um site existente**, elev
 ├── js/
 │   └── main.js            # Lógica de interatividade e menus
 ├── index.html             # Página inicial
+├── contato.html           # Página de contato
 ├── escolas.html           # Página "Para Escolas" (captação)
+├── estrutura-equipe.html  # Informações de estrutura
+├── faq.html               # Perguntas frequentes
+├── games.html             # Seção de jogos
+├── palestrantes.html      # Lista de palestrantes
+├── parceiros.html         # Lista de parceiros
 ├── projeto.html           # Sobre o projeto
 ├── torneios.html          # Informações sobre as ligas
 └── README.md              # Documentação do projeto
