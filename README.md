@@ -2,12 +2,15 @@
 
 > Projeto de refatoração e modernização da interface web da plataforma **Rei dos Jogos**, desenvolvido como atividade prática para a disciplina de **Desenvolvimento Front-End** da **UNICID**.
 
-### 👥 Autores (Engenharia de Software)
-- **Daniel Santana** | 47391812
-- **Jonas Mateus** | 47252766
-- **Kaike Domingos** | 47963352
-- **Marlon Dias** | 47621915
-- **Matheus Alves** | 47968788
+### 👥 Autores (Engenharia de Software) 
+
+| Nome | RGM | Usuário GitHub | 
+| :--- | :---:| :---:| 
+| Daniel Santana | 47391812 | Daniel-Cavalcante-dev
+| Jonas Mateus | 47252766 | Jonasmateus-ui|
+| Kaike Domingos | 47963352 | Kaike2311
+| Marlon Dias | 47621915 | Marlon7685
+| Matheus Alves | 47968788 | Mathz9 |
 
 ---
 
