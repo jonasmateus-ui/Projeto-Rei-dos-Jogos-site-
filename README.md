@@ -3,11 +3,11 @@
 > Projeto de refatoração e modernização da interface web da plataforma **Rei dos Jogos**, desenvolvido como atividade prática para a disciplina de **Desenvolvimento Front-End** da **UNICID**.
 
 ### 👥 Autores (Engenharia de Software)
-- **Daniel Santana**
-- **Jonas Mateus**
-- **Kaike Domingos**
-- **Marlon Dias**
-- **Matheus Alves**
+- **Daniel Santana** | 47391812
+- **Jonas Mateus** | 47252766
+- **Kaike Domingos** | 47963352
+- **Marlon Dias** | 47621915
+- **Matheus Alves** | 47968788
 
 ---
 
